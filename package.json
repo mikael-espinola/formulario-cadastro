@@ -1,5 +1,9 @@
 {
+  "homepage": "http://mikael-espinola.github.io/formulario-cadastro",
   "dependencies": {
     "react-router-dom": "^6.9.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
