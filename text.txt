@@ -1,2 +1,0 @@
-refazer a tag nav em um arquivo nav-item e fazer  com $ para ficar retilizável.
-seguir exemplo do home no app.jsx
